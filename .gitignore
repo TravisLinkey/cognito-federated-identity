@@ -1,2 +1,3 @@
 terraform/devl.tfvars
 /terraform/.terraform
+terraform/terraform.tfstate
